@@ -1,0 +1,27 @@
+{
+  "version": "2.2.0",
+  "summary": {
+    "title": "Hello World Threat Model",
+    "owner": "fagregorio1",
+    "description": "This is a high level system description",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Data Flow Diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.2.0",
+        "cells": [],
+        "description": "This is a description"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "demoreviewer",
+    "threatTop": 0
+  }
+}
